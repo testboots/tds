@@ -1,4 +1,4 @@
 digitaldelivery
 ===============
 
-techniques and tools for improving your digital software factory
+techniques, tools, and metrics for improving your digital software factory
